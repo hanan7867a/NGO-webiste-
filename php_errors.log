@@ -1,0 +1,15 @@
+[07-May-2025 20:59:56 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in C:\xampp\htdocs\rah e umeed\fetch_volunteer_details.php:20
+Stack trace:
+#0 C:\xampp\htdocs\rah e umeed\fetch_volunteer_details.php(20): mysqli->prepare('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rah e umeed\fetch_volunteer_details.php on line 20
+[07-May-2025 21:00:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in C:\xampp\htdocs\rah e umeed\fetch_volunteer_details.php:20
+Stack trace:
+#0 C:\xampp\htdocs\rah e umeed\fetch_volunteer_details.php(20): mysqli->prepare('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rah e umeed\fetch_volunteer_details.php on line 20
+[07-May-2025 21:03:13 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in C:\xampp\htdocs\rah e umeed\fetch_volunteer_details.php:20
+Stack trace:
+#0 C:\xampp\htdocs\rah e umeed\fetch_volunteer_details.php(20): mysqli->prepare('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\rah e umeed\fetch_volunteer_details.php on line 20
